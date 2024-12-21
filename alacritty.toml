@@ -1,0 +1,10 @@
+[window]
+padding.y = 10
+padding.x = 5
+opacity = 0.9
+dynamic_title = true
+decorations = "Full"
+
+[font]
+normal.family = "JetBrains Mono Nerd Font"
+size = 10.0
